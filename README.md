@@ -27,8 +27,6 @@ I got the idea for this while going through [BoredButton.com](https://boredbutto
 - [ ] Add EVEN MORE activities
 - [ ] Make it look better
 - [ ] Add a 'skip' button for those who can't do the activity
-- [x] When you get an activity, show details on how that activity can be benefitial to you
-- [ ] Add benefits for all activities
 - [ ] When you get an activity, link to helpul articles or websites about getting started
 - [ ] Add a way to share with friends
 - [ ] Add a way to track how many times I've done each activity
