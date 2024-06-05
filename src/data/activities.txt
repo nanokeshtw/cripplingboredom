@@ -1,0 +1,57 @@
+0,Go for a walk 🦮,60
+1,Read a book 📖,30
+2,Write a blog post ✍️,90
+3,Call a friend ☎️,45
+4,Write a letter 📝,30
+5,Meditate 🧘,30
+6,Exercise 💪,120
+7,Organize your desk 🗃️,30
+8,Declutter your phone 📱,30
+9,Make a list of things you're grateful for 🗒️,20
+10,Plan your week 🗓️,45
+11,Venture into nature 🌳,120
+12,Do a puzzle 🧩,90
+13,Listen to music 🎶,30
+14,Listen to a podcast 🎧,60
+15,Look at old photos 📷,30
+16,Make a cup of tea 🍵,15
+17,Dwell on a quote 🤔,30
+18,Take some photos 📸,90
+19,Take some time to reflect 🪞,30
+20,Learn how to write with your non-dominant hand ✍️️,20
+21,Learn how to juggle 🤹,30
+22,Learn how to say something in 10 languages 🗣️,45
+23,Learn how to make a paper airplane ✈️,20
+24,Learn origami 📃,45
+25,Draw a picture 🖼️,45
+26,Paint a picture 🖼️,60
+27,Write a poem 📝,45
+28,Write a short story 📝,90
+29,Write a song 🎵,60
+30,Write a letter to your future self ✍️️,30
+31,Write a letter to your past self ✍️️,30
+32,Make a vision board 📋,45
+33,Make a list of things you want to do before you die 📋,25
+34,Make a list of things you want to do before the year ends 📋,25
+35,Journal 📜,25
+36,Learn something new on the internet 🌐,60
+37,Write a user manual for something 📰,60
+38,Publish a project on GitHub 🪧,180
+39,Create a website 💻,180
+40,Look at the stars 🌠,30
+41,Look at the clouds ⛅,30
+42,Try to quiet your mind 🧠,30
+43,Go to a museum 🏛️,120
+44,Go to a library 🏛️,120
+45,Go to a park 🏞️,120
+46,Go camping 🏕️,1440
+47,Go to a coffee shop ☕,120
+48,Go to a bookstore 📚,120
+49,Go to a thrift store 🛍️,120
+50,Go to a farmers market 🧑‍🌾,120
+51,Go to a flea market 🪑,120
+52,Go to a garage sale 🏠,120
+53,Watch a movie 🎬,120
+54,Clean the house 🧹,30
+55,Attend a virtual event 🖥️,90
+56,Study a new language 🈵,60

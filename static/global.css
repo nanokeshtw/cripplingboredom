@@ -1,0 +1,32 @@
+html {
+  font-family: "Happy Monkey", sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #162738;
+  color: #f0f0f0;
+}
+
+button {
+  border: none;
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  background-color: var(--bg-color, #ff7f50);
+  color: var(--color, #f0f0f0);
+  font-size: 1.2rem;
+  cursor: pointer;
+
+  transition: all 0.2s ease-in-out;
+}
+button:hover {
+  background-color: var(--hover-bg-color, #ff6347);
+}
+button:not(:disabled):active {
+  scale: 0.95;
+}
+button.danger {
+  --bg-color: #d83e2a;
+  --hover-bg-color: #c33421;
+}
