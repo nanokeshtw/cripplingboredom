@@ -35,3 +35,7 @@ I got the idea for this while going through [BoredButton.com](https://boredbutto
 - [ ] Add a way to find your activity near you, ex: if you get `go to library` then you can click to see local bookstores and libraries
 - [ ] Comments on activites?
 - [ ] Add a feed on activities so people can post about them doing it!
+
+---
+
+With The Ferosity Of :worm: by [nanokeshtw](https://github.com/nanokeshtw)
